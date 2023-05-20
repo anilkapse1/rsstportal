@@ -1,0 +1,16 @@
+{
+    "announcement":[
+        {
+            "heading":"announcement 1",
+            "description":"description"
+        },
+        {
+            "heading":"announcement 2",
+            "description":"description"
+        },
+        {
+            "heading":"announcement 3",
+            "description":"description"
+        }
+    ]
+}
